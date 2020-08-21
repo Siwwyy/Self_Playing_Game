@@ -5,7 +5,6 @@ Simple 2D game logic with simple perceptron neural network for learning current 
 <div align="center">
 <img src="REPOSITORY_IMAGES/game_looks.png"/>
 <img src="REPOSITORY_IMAGES/game_looks2.png"/>
-<h1> Sample apperance is described above</h1>
-
 </div>
+<h1> Sample apperance is described above</h1>
 <br>
